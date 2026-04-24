@@ -1,0 +1,39 @@
+:root {
+  /* Color palette */
+  --primary: #6c63ff;
+  --secondary: #00d2a0;
+  --accent: #ff6584;
+  --dark-bg: #0a0a14;
+  --dark-surface: rgba(255, 255, 255, 0.04);
+  --dark-border: rgba(255, 255, 255, 0.08);
+  --light-bg: #f8f8fc;
+  --light-surface: rgba(255, 255, 255, 0.9);
+  --light-border: rgba(0, 0, 0, 0.06);
+
+  /* Typography */
+  --font-display: 'Inter', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+
+  /* Spacing scale */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 48px;
+  --space-2xl: 96px;
+
+  /* Border radius */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-glow-primary: 0 0 30px rgba(108, 99, 255, 0.45);
+  --shadow-card: 0 14px 30px rgba(0, 0, 0, 0.18);
+
+  /* Transitions */
+  --transition-fast: 0.15s;
+  --transition-base: 0.3s;
+  --transition-slow: 0.6s;
+}

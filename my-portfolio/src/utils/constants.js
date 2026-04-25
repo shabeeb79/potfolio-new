@@ -22,7 +22,7 @@ export const SOCIAL_LINKS = [
   },
   {
     name: "LeetCode",
-    url: "https://leetcode.com/",
+    url: "https://leetcode.com/u/shabeeb_vk/",
     icon: "leetcode",
     color: "#FFA116",
   },
